@@ -8,7 +8,7 @@ Combined emphasis with **asterisks** or **underscores**.
 
 Strikethrough uese two tildes. ~~Scratch this~~
 ***
-1.
-2.
+1.First ordered list item
+2.Another item
 3.
 4.
